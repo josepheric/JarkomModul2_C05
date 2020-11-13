@@ -19,6 +19,7 @@ Hasil Ping:
 ![](https://lh5.googleusercontent.com/vDec0AV6JNDbe4YPvxNi8WdR2rtCmKGZeyXuGKfPtINGBNW62a0QZrmqfX_fB9FlS2WcQv4YoNfVQn6IGwHg4sZbgEuYKPKjvHE2aY2RbkcXmPoHDP8DyrWzCseYqihjQqP8QhE_)
 
 Hasil:
+
 ![]( https://lh3.googleusercontent.com/Re4-h-qIc7bg5pThdGlx_pLYQ02z8sY7bF2gkXIg3vHq1NNCcq_kY2mwZkxtmX773GcBGiroVIZ-kf9sA3N1T40LiHxZfx7opSGAEfCZQyfYSFwWzhT4DHaTTXHQmJjDH6lIPsUs)
 
 ## 4. Dibuatkan reverse domain untuk domain utama  
@@ -27,6 +28,7 @@ Hasil:
 ![]( https://lh5.googleusercontent.com/zT6QDJOYmfOpQpvOta2gJQwxrJ63xB_xlVOFEtFiktu6q9VEk6Wm1RSmbZgfa63z6pL161IXja1sOx3M-SwJliBwl37TqSDbHhBos4ycRsaikrGb0c-Tb3qzHFqgmSlQ7lnfTC4p)
 
 Hasil:
+
 ![](https://lh5.googleusercontent.com/h4JQxSUI_IPnS80tFc_ERSAJJLTs4C9Te5xugujeIZNst1P4Cq76AqgNNuJ9cq6nSJ2tevuZwQ_rMKuOCyuVKjAYVGCNnezcrJ0ABHUy1DYYt7-DxoF_yHwL_ju25UKN2e8yrtZN)
 
 ## 5. Dibuatkan DNS Server Slave pada MOJOKERTO
@@ -35,6 +37,7 @@ Hasil:
 ![](https://lh4.googleusercontent.com/1rFjVfTsBE9-AM842rzggs-q_K6nX1OM8ZggqgoQGbIbsPXqr1KN3BaqcBzXF0vf8K_kZlYUr24K9yjV-hjxo4Og9BKc6X3KKY4ipabKavS9KlZAMmx1Btlkz3gX5fjZkiEMBWmD)
 
 Hasil:
+
 ![](https://lh5.googleusercontent.com/i2sDUdf2hQNJyTZrDB_L3zN9EZ03F7UZ3WJzsRWsatroy8GDbDVnc1O7ieghPBt6drJi2M7LzPre_JzNXAj_1iS9cg4WXhR5f-xh4Arqagl-y0JqdxyH0SSPS4Zzifd9Z7iOv5Mo)
 
 ## 6. Subdomain dengan alamat http://gunung.semeruyyy.pw yang didelegasikan pada server MOJOKERTO dan mengarah ke IP Server PROBOLINGGO
@@ -46,6 +49,7 @@ Hasil:
 ![](https://lh3.googleusercontent.com/7kUYMfoB2wzH4cVQJTZpS9fuRmVUCw8e2H7istoxtnHj36tJ8Cjec_dtBeJQKCt_h1F49NPPDNa24rmhQmLdX8Ucob4eJfeNM3Qj2CeJ17xmqPQ8WsUklkWesypRlupZOmGBc7Ku)
 
 Hasil:
+
 ![](https://lh6.googleusercontent.com/bwReI_3dIysRb5dlJXu4PpTg0bPN6zfNvApBPAVT6OBZXyiOIuJSJyF1V_VQEUCVCYm7p9MyxPdqLewb1Vm7T8UP3UVL4PIhGVkoMTMItKqcX6PH-uqf7AovtcuUgjiETdok_-BL)
 
 ## 7. Dibuatkan subdomain dengan nama http://naik.gunung.semeruyyy.pw, domain ini diarahkan ke IP Server PROBOLINGGO

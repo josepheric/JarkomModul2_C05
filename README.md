@@ -6,7 +6,7 @@ Feinard / 05111840000081
 ![1](https://lh5.googleusercontent.com/RTR_pvOtEZMWTk475htryTls1H5GyAV-zdWJJVfNkEL3q2dtfuBcuUp31IiGMxXt_UcNn66dn_DKWr3c0hWQs8W98fhZU26fOGzPXYvAdcKpthTjuohxf7c_wEvreAVBSr85ocWu)
 ![2](https://lh4.googleusercontent.com/FJAXFVr5CaVyj0yQ_3KIwKSft0YfRQAbnveiwpRDn9NljlLYX-1iISsSfGTc8MfmnruDXcHVSrodyFq6eqLVija2y29WHYNRo5fQpHXG9cDcO5zBMYzSP7M3jYRSNPJWcp-1edgo)  
 
-Hasil Ping:
+Hasil Ping:  
 ![](https://lh5.googleusercontent.com/BpBRM58pPbo-_DYhTpmZithMhWP8N9rzGvTiAeenTEWV0cXc5p36nFFygx1MlTiMsDvaU-C_FW9hS3c2bCcYCEIWKBdWcexqkoVAMF7xcHOZY83xEQx7lzOuTq3mMqygxbQHi7l9)
 
 ## 2. Memiliki alias http://www.semeruyyy.pw
@@ -46,7 +46,7 @@ Hasil Ping:
 ## 7. Dibuatkan subdomain dengan nama http://naik.gunung.semeruyyy.pw, domain ini diarahkan ke IP Server PROBOLINGGO
 ![](https://lh3.googleusercontent.com/7kUYMfoB2wzH4cVQJTZpS9fuRmVUCw8e2H7istoxtnHj36tJ8Cjec_dtBeJQKCt_h1F49NPPDNa24rmhQmLdX8Ucob4eJfeNM3Qj2CeJ17xmqPQ8WsUklkWesypRlupZOmGBc7Ku)  
 
-Hasil:
+Hasil:  
 ![](https://lh6.googleusercontent.com/bwReI_3dIysRb5dlJXu4PpTg0bPN6zfNvApBPAVT6OBZXyiOIuJSJyF1V_VQEUCVCYm7p9MyxPdqLewb1Vm7T8UP3UVL4PIhGVkoMTMItKqcX6PH-uqf7AovtcuUgjiETdok_-BL)
 
 ## 8. Mengatur web server dengan Domain http://semeruyyy.pw memiliki DocumentRoot pada /var/www/semeruyyy.pw
